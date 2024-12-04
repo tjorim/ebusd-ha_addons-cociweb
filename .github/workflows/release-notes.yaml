@@ -16,7 +16,7 @@ jobs:
     
     steps:
       - name: ⤵️ Check out code from GitHub
-        uses: actions/checkout@v4.2.1
+        uses: actions/checkout@v4.2.2
 
       - name: Extract release notes and version
         run: |
